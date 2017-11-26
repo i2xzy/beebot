@@ -1,4 +1,5 @@
-# BEE-BOT
+
+[# BEE-BOT](https://www.beebot.github.io)
 
 striped black and yellow striped background  
 * Title and instructions
