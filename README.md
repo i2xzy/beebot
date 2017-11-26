@@ -1,6 +1,6 @@
 
 # BEE-BOT
-[Link to site](https//:beebot.github.io)
+[Link to site](https://i2xzy.github.io/beebot/)
 
 striped black and yellow striped background  
 * Title and instructions
